@@ -22,6 +22,6 @@ As a data analyst, I was tasked with creating an interactive Power BI dashboard 
 Here is a screenshot of the **Real Estate Market Analysis Dashboard**:
 ## Overall Analysis
 
-![Real Estate Dashboard Screenshot](assets/images/dashboard_screenshot.png)
+![Real Estate Dashboard Screenshot](./real_estate.png)
 
 
